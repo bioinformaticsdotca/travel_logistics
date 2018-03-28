@@ -30,7 +30,8 @@ To get to McGill University from YUL:
 
 This will of course depend on where you are driving from. McGill campus, McIntyre Medical Building is located at 3655 Promenade Sir William Osler, Montreal, QC, H3G 0B1.
 
-## Accommodations:
+## Accommodations
+
 You are responsible for arranging your own accommodation in Montreal. Numerous accommodation facilities are possible. Some suggested accommodations near McGill include:
 
 •	McGill campus accommodations: https://www.mcgill.ca/accommodations/summer 
@@ -39,7 +40,7 @@ McGill has several types of accommodations available from hostel style to hotel 
 
 Many other hotels exist within walking distance to McGill campus. Expedia.ca or Booking.com are useful websites for narrowing down the choice.
 
-## Meals:
+## Meals
 
 A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. There is dining on McGill campus, as well as numerous local restaurants and pubs.
 
