@@ -48,7 +48,8 @@ This will of course depend on where you are driving from. Workshop location is 6
 
 You are responsible for arranging your own accommodation in Toronto. Numerous accommodation facilities are possible. Our preferred rate hotels are closer to University Ave. and College St.
 
-*	Holiday Inn Toronto Downtown Centre, reservations@hitorontodowntown or 416-977-6655 The confirmed rates start at $160 per room, per night. To make on-line reservations, go to:  https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail and enter Corporate ID 100303130.  
+*	Holiday Inn Toronto Downtown Centre - The confirmed rates start at $160 per room, per night and are subject to avialability. To make on-line reservations, go to:  https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail and enter Corporate ID 100303130. 
+* Chelsea Hotel - The confirmed rates start at $162 per room, per night and are subject to avialability. To mkae online reservaitons, go to: https://gc.synxis.com/rez.aspx?Hotel=59052&Chain=10316&promo=NUNHN and enter Corporate Code NUNHN
 *	University of Toronto Housing options - UofT has several types of accommodations available from hostel style to hotel style. Rates vary according to style. [Chestnut Residence](http://www.chestnut.utoronto.ca/home/summer/), [New College Residence](http://www.ncsummer.utoronto.ca/), and [Neill-Wycik Backpackers Hotel](http://torontobackpackershotel.com/) are some options.   
 * Many other hotels exist within walking distance to UofT campus. Expedia.ca, Booking.com, or hotwire.com are useful websites for narrowing down the choice.  
 
