@@ -11,7 +11,7 @@ home: https://bioinformaticsdotca.github.io
 ## Where We Are
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=..." allowfullscreen></iframe>
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>
 
 ## Transportation To/From Toronto  
 
