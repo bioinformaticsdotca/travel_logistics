@@ -25,42 +25,39 @@ To get to downtown from YYZ:
 
 * Union Pearson Express (UPX) Train (recommended): An express train connects Pearson Airport with Union Station in downtown Toronto in 25 minutes. There are 2 other stations before Union Station. Rates are dependent on the destination station with tickets to Union Station costing $12.35 one-way. Tickets can be purchased online or before boarding the train. More information can be found [here](http://www.upexpress.com). Once at Union Station, transferring to public transit is simple (see below).
 
-* Public transit: The TTC, Toronto's public transit system, also provides [Airport Service](http://www3.ttc.ca/Riding_the_TTC/Airport_service.jsp) and is the least expensive method at $3.25 of getting to and from downtown Toronto. To access bus service from the Airport to TTC Kipling Station take "192 Airport Rocket". Service occurs all day, every day between 5:30am and 2am and between Kipling Station and Pearson Airport. Buses stop only at Kipling Station, Dundas Street West and East Mall Crescent, then Jetliner Road at Airport Road (Ground Level), then Terminal 1 (Ground Level), then Terminal 3 (Arrivals Level). One-way travel time to the subway is approx. 20 minutes. The closest subway station to 661 University Ave. is Queens Park on the University/Spadina line. 661 University Ave. is located at the corner of University and College. Fares need to be paid in cash on the bus or with tokens that can be purchased at TTC stations.
+* Public transit: The TTC, Toronto's public transit system, also provides [airport service](https://www.ttc.ca/en/riding-the-ttc/Service-to-the-airport/Toronto-Pearson-International-Airport) and is the least expensive method of getting to and from downtown Toronto at $3.35. To access bus service from the Airport to TTC Kipling Station, take the [900 Airport Express](https://staging2.ttc.ca/routes-and-schedules/900/0). Service occurs between 5:30am and 2am Monday to Friday and between 8:15am and 2:15am on Sunday. Buses stop only at Kipling Station, Dundas Street West and East Mall Crescent, Dundas Street West and Acorn Avenue, then Jetliner Road at Airport Road (Ground Level), Terminal 1 (Ground Level), and Terminal 3 (Arrivals Level). One-way travel time to the subway is approx. 20-25 minutes. The closest subway station to 661 University Ave. is Queens Park on the University/Spadina line. 661 University Ave. is located at the corner of University and College. You can find [information on buying TTC fares and passes here](https://www.ttc.ca/Fares-and-passes/How-to-buy-fares-and-passes).
 
-* Limousine/Taxi service: Limousines (fixed rate) are marginally cheaper than taxis (meter) for the trip downtown. Both the Taxis and the Limousines can be located immediately outside any airport terminal on the Arrivals Level. You can reserve a Limousine by:
-  * Airport Services (1-800-263-6135)  
-  * Air Flight Services (1-800-268-6843)  
-  * Aeroport Taxi and Limousine Services (1-800-465-3434)  
-The trip downtown could take from 30 minutes to 1 hour depending on traffic. The fixed-rate taxi/limo fares to downtown are between CAD$60-80 to 661 University Ave.
+* Limousine/Taxi service: Limousines (fixed rate) are marginally cheaper than taxis (meter) for the trip downtown. Both taxis and lLimousines can be located immediately outside any airport terminal on the Arrivals Level. You can find more information on fixed-rate transport from [Pearson Airport on their website here](https://www.torontopearson.com/en/transportation-and-parking/taxis-and-limos). The trip downtown could take from 30 minutes to 1 hour depending on traffic.
 
 ####	Billy Bishop Toronto City Airport (YTZ)  
 
-Located on the western tip of a series of islands in Toronto Harbor, the island airport handles scheduled, private and corporate flights. [Porter Airlines](https://www.flyporter.com/en-ca/) and [Air Canada](https://www.aircanada.com/ca/en/aco/home.html) operate out of this airport. To get off the Island, you can walk through the new pedestrain tunnel or take the TCCA 1 ferry. A free shuttle bus can take you to Union Station.
+Located on the western tip of a series of islands in Toronto Harbor, the island airport handles scheduled, private and corporate flights. [Porter Airlines](https://www.flyporter.com/en-ca/) and [Air Canada](https://www.aircanada.com/ca/en/aco/home.html) operate out of this airport. To get off the Island, you can walk through the [pedestrian tunnel](https://www.billybishopairport.com/to-from/pedestrian-tunnel) or take the [ferry](https://www.billybishopairport.com/to-from/ferry). A [free shuttle bus](https://www.billybishopairport.com/the-airport/amenities/services) can take you to Union Station.
 
 ###	By Train
 
-Toronto is served by the VIA Rail System, the network that provides all rail service throughout Canada (with connections to the Amtrak system through Niagara Falls, New York). Trains arrive at Union Station in downtown Toronto. Union Station is located on Front Street, between Bay and University (across the street from the Royal York Hotel). The station is right on Toronto's subway line (locally known as the TTC), and is within walking distance of Rogers Centre, the CN Tower, the financial district and many downtown hotels, shops and restaurants. There are also taxis available outside Union Station.
+Toronto is served by the Go Train system and the VIA Rail system (the network that provides all rail service throughout Canada and connections to the Amtrak system through Niagara Falls, New York). Trains arrive at Union Station in downtown Toronto. Union Station is located on Front Street, between Bay and University (across the street from the Royal York Hotel). The station also contains Toronto's subway line (locally known as the TTC), and is within walking distance of Rogers Centre, the CN Tower, the financial district and many downtown hotels, shops and restaurants. There are also taxis available outside Union Station.
 
 ###	By Bus
 
-Buses arrive at the downtown Toronto Bus Terminal at Bay and Dundas. You can connect directly with the Public Transportation Subway System (locally known as the TTC) and travel to your hotel. There are also taxis available outside the Bus Terminal.
+Buses arrive at Union Station. You can connect directly with the Public Transportation Subway System (locally known as the TTC) and travel to your hotel. There are also taxis available outside the Bus Terminal.
 
-###	By Car
+## Accommodations
 
-This will of course depend on where you are driving from. Workshop location is 661 University Ave.
+You are responsible for arranging your own accommodation in Toronto. Numerous accommodation facilities are possible, but we are not eligible for hotel preferred rates. To find a hotel in walking distance, choose one near to the intersection of University Ave. and College St. Some of the hotels students have previously stayed at include:
 
-## Accommodations:
-
-You are responsible for arranging your own accommodation in Toronto. Numerous accommodation facilities are possible. Our preferred rate hotels are closer to University Ave. and College St.
-
-*	Holiday Inn Toronto Downtown Centre - The confirmed rates start at $160 per room, per night and are subject to avialability. To make on-line reservations, go to:  https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail and enter Corporate ID 100303130. 
-* Chelsea Hotel - The confirmed rates start at $162 per room, per night and are subject to avialability. To mkae online reservaitons, go to: https://gc.synxis.com/rez.aspx?Hotel=59052&Chain=10316&promo=NUNHN and enter Corporate Code NUNHN
-*	University of Toronto Housing options - UofT has several types of accommodations available from hostel style to hotel style. Rates vary according to style. [Chestnut Residence](http://www.chestnut.utoronto.ca/home/summer/), [New College Residence](http://www.ncsummer.utoronto.ca/), and [Neill-Wycik Backpackers Hotel](http://torontobackpackershotel.com/) are some options.   
+*	[Holiday Inn Toronto Downtown Centre](https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail)
+* [Chelsea Hotel](https://www.chelseatoronto.com/en/)
+* [Marriott Courtyard](https://www.marriott.com/en-us/hotels/yyzcy-courtyard-toronto-downtown/overview/)
+* [InterContinental Hotel Toronto](https://www.torontocentre.intercontinental.com/)
+* [Hyatt Regency Toronto on King](https://www.hyatt.com/en-US/hotel/canada/hyatt-regency-toronto/torrt)
+*	University of Toronto Housing options: UofT has several types of accommodations available from hostel style to hotel style. Rates vary according to style. [Chestnut Residence](https://stayatuoft.com/), [New College Residence](http://www.ncsummer.utoronto.ca/), and [Neill-Wycik Hotel](https://www.neillwycikhotel.com/) are some options.   
 * Many other hotels exist within walking distance to UofT campus. Expedia.ca, Booking.com, or hotwire.com are useful websites for narrowing down the choice.  
 
-## Meals:
-A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. Local eating establishments will be pointed out.
+If you would like to expand your radius, you can consider taking public transit. OICR has a direct entrance to the Queen's Park subway station. Line 1 (Yonge-University) goes through this station and connects easily to Line 2 (Bloor-Danforth). There are also a significant number of streetcar routes nearby. You can see the [full TTC map here](https://ttc-cdn.azureedge.net/-/media/Project/TTC/DevProto/Images/Home/Routes-and-Schedules/Landing-page-pdfs/TTC_SubwayStreetcarMap_2021-11.pdf?rev=b33eab4ccfa0444f82cf10f66cf20dfd) and [get more information/plan trips here](https://www.ttc.ca/). 
 
-## Workshop Schedule:
 
-The workshop will begin daily at 8:30am and conclude between 5-6pm but may run as late as 8pm. Workshop schedules are available on the [student tutorial site](https://bioinformaticsdotca.github.io/).
+## Meals
+A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements.
+
+## Workshop Schedule
+Workshop schedules are available on the [student tutorial site](https://bioinformaticsdotca.github.io/).
