@@ -46,7 +46,7 @@ A lunch will be provided. You are responsible for your own breakfast and dinner 
 
 ## Workshop Schedule
 
-The workshop will begin daily at 8:30am and conclude between 5-6pm but may run as late as 8pm. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/).
+The workshop will begin daily at 8:30am and conclude between 5-6pm but may run as late as 8pm. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/MIC_2023).
 
 
 

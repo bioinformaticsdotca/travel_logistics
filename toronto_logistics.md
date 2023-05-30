@@ -10,8 +10,10 @@ home: https://bioinformaticsdotca.github.io
 
 ## Where We Are
 
+We are located at 661 University Avenue, Suite 510. To find us, enter the MaRS Centre at the corner of University and College, go to the 5th floor of the South Tower using the nearest elevator bank, and sign in at the OICR desk. Be advised that not all elevators go to the 5th floor, so please use the elevators opposite the security desk labeled 2-6.  
+
 <iframe width="600" height="450" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>  
 
 ## Transportation To/From Toronto  
 
@@ -29,7 +31,7 @@ To get to downtown from YYZ:
 
 * Limousine/Taxi service: Limousines (fixed rate) are marginally cheaper than taxis (meter) for the trip downtown. Both taxis and lLimousines can be located immediately outside any airport terminal on the Arrivals Level. You can find more information on fixed-rate transport from [Pearson Airport on their website here](https://www.torontopearson.com/en/transportation-and-parking/taxis-and-limos). The trip downtown could take from 30 minutes to 1 hour depending on traffic.
 
-####	Billy Bishop Toronto City Airport (YTZ)  
+#### Billy Bishop Toronto City Airport (YTZ)  
 
 Located on the western tip of a series of islands in Toronto Harbor, the island airport handles scheduled, private and corporate flights. [Porter Airlines](https://www.flyporter.com/en-ca/) and [Air Canada](https://www.aircanada.com/ca/en/aco/home.html) operate out of this airport. To get off the Island, you can walk through the [pedestrian tunnel](https://www.billybishopairport.com/to-from/pedestrian-tunnel) or take the [ferry](https://www.billybishopairport.com/to-from/ferry). A [free shuttle bus](https://www.billybishopairport.com/the-airport/amenities/services) can take you to Union Station.
 
@@ -45,7 +47,7 @@ Buses arrive at Union Station. You can connect directly with the Public Transpor
 
 You are responsible for arranging your own accommodation in Toronto. Numerous accommodation facilities are possible, but we are not eligible for hotel preferred rates. To find a hotel in walking distance, choose one near to the intersection of University Ave. and College St. Some of the hotels students have previously stayed at include:
 
-*	[Holiday Inn Toronto Downtown Centre](https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail)
+* [Holiday Inn Toronto Downtown Centre](https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail)
 * [Chelsea Hotel](https://www.chelseatoronto.com/en/)
 * [Marriott Courtyard](https://www.marriott.com/en-us/hotels/yyzcy-courtyard-toronto-downtown/overview/)
 * [InterContinental Hotel Toronto](https://www.torontocentre.intercontinental.com/)
@@ -60,4 +62,4 @@ If you would like to expand your radius, you can consider taking public transit.
 A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements.
 
 ## Workshop Schedule
-Workshop schedules are available on the [student tutorial site](https://bioinformaticsdotca.github.io/).
+Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/).
