@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /calgary_logistics
-title: Travel Logistics
+title: Calgary Travel Logistics
 header1: Workshop Pages for Students
 header2: Calgary Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /montreal_logistics
-title: Travel Logistics
+title: Montréal Travel Logistics
 header1: Workshop Pages for Students
 header2: Montreal Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg

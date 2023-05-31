@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /edmonton_logistics
-title: Travel Logistics
+title: Edmonton Travel Logistics
 header1: Workshop Pages for Students
 header2: Edmonton Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg

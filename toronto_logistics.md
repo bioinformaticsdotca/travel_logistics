@@ -1,7 +1,7 @@
 ---
 layout: tutorial_page
 permalink: /toronto_logistics
-title: Travel Logistics
+title: Toronto Travel Logistics
 header1: Workshop Pages for Students
 header2: Toronto Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg
