@@ -42,8 +42,8 @@ You are responsible for arranging your own accommodation in Montreal. Numerous a
 Many other hotels exist within walking distance to McGill campus. Expedia.ca or Booking.com are useful websites for narrowing down the choice.
 
 ## Meals
-
-A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. There is dining on McGill campus, as well as numerous local restaurants and pubs.
+TBA  
+<!-- A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. There is dining on McGill campus, as well as numerous local restaurants and pubs. -->
 
 ## Workshop Schedule
 

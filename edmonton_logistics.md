@@ -36,5 +36,4 @@ UAlberta also offers accommodations on campus:
 TBA
 
 ## Workshop Schedule
-<!-- Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/). -->
-TBA
+The workshop will begin daily at 8am MST (10am EST) and conclude at approximately 5pm MST (7pm EST). Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/MET_2023).
