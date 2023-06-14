@@ -8,7 +8,7 @@ image: site_images/bioinformatics_LOGO.jpg
 ---
 ## Where We Are
 
-This workshop will be held in room 206 of the McGill University McIntyre Medical Building.  
+This workshop will be held in room 208 of the McGill University McIntyre Medical Building.  
 
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=McIntyre%20Medical%20Building&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>
 
