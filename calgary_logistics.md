@@ -49,3 +49,6 @@ A lunch will be provided. You are responsible for your own breakfast and dinner 
 ## Workshop Schedule
 
 The workshop will begin daily at 8:30am and conclude between 5-6pm but may run as late as 8pm. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/MIC_2023).  
+
+## Social
+We will be hosting a workshop social at Banquet Bar (3953 University Avenue NW) on Wednesday, July 5, 2023 from 6-8pm. This bar is walking distance from the workshop building and is located in University District, an area with lots of restaurants and pubs near the University of Calgary. Appetizers and one drink ticket per person will be provided. Additional food and drinks will be put on an individual bill. We have rented the bowling lanes in the bar from 7-8pm for those who are interested. 
