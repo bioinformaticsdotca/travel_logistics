@@ -11,7 +11,7 @@ image: site_images/bioinformatics_LOGO.jpg
 # St. John's Workshop Attendance Logistics
 
 ## Where We Are
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2162.8014346434243!2d-52.73906487232955!3d47.57107344211663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0ca38f90ba8d65%3A0x31ba6dd8eb22cc5e!2sFaculty%20of%20Education%2C%20Memorial%20University!5e0!3m2!1sen!2sca!4v1713205162980!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2691.8294277070468!2d-52.7407258!3d47.5711071!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0ca38f90ba8d65%3A0x31ba6dd8eb22cc5e!2sFaculty%20of%20Education%2C%20Memorial%20University!5e0!3m2!1sen!2sca!4v1713285876603!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 The workshop will be held in room ED2018A of Memorial University's Education building - G.A. Hackman Building. You can find a [map of campus here](https://www.mun.ca/campus_map/). 
 
