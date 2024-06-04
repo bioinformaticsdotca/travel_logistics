@@ -15,9 +15,9 @@ Please note that we have two Toronto venues for our workshops.
 ### R Workshops
 #### Introduction to R and Analysis Using R
 
-These workshops will be held at room POD-368 in the Toronto Metropolitan University's Podium Building.
+These workshops will be held at room TRS1147 in the Toronto Metropolitan University's Ted Rogers School of Management.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.106032166819!2d-79.3819961407715!3d43.65832482947639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb35431c1395%3A0xe8ed8bd69125d6f4!2sToronto%20Metropolitan%20University!5e0!3m2!1sen!2sca!4v1714750491669!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11546.598838650503!2d-79.382778!3d43.6554558!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34cb08c0ab6d%3A0xddc4fb55422aed90!2sTed%20Rogers%20School%20of%20Management%20eaton%20centre!5e0!3m2!1sen!2sca!4v1717505296006!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ### All other Toronto workshops
