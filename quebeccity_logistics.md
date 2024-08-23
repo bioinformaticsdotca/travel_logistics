@@ -21,7 +21,7 @@ The workshop will be held in room R-1772.1 of CHUL Hospital. This room is on the
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10926.728334111154!2d-71.3885945!3d46.7908685!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb89985d94c16f3%3A0x5d62f497dd07326a!2sQu%C3%A9bec%20City%20Jean%20Lesage%20International%20Airport!5e0!3m2!1sen!2sca!4v1724431188811!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Direct flights to YQB are offered from many cities across North America and Europe.
+Direct flights to YQB are offered from many cities across North America and Europe. [Please note that Air Canada may move to strike as of September 17.](https://www.ctvnews.ca/business/air-canada-pilots-authorize-strike-for-as-soon-as-next-month-1.7010525)  
 
 ### Train
 VIA Rail operates [train routes across Canada](https://www.viarail.ca/en/explore-our-destinations/trains/ontario-and-quebec), including Québec City. Please note that work stoppages are currently affecting some Via Rail routes.
