@@ -10,20 +10,7 @@ home: https://bioinformaticsdotca.github.io
 
 ## Where We Are
 
-Please note that we have two Toronto venues for our workshops.
-
-### R Workshops
-#### Introduction to R and Analysis Using R
-
-These workshops will be held at room TRS1147 in the Toronto Metropolitan University's Ted Rogers School of Management.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11546.598838650503!2d-79.382778!3d43.6554558!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34cb08c0ab6d%3A0xddc4fb55422aed90!2sTed%20Rogers%20School%20of%20Management%20eaton%20centre!5e0!3m2!1sen!2sca!4v1717505296006!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-### All other Toronto workshops
-#### RNA-seq, Single-Cell RNA-seq, Pathway and Network Analysis, Introductory Spatial 'Omics, Machine Learning for Medical Imaging, and Pharmacogenomics 
-
-These workshops will be held at the Ontario Institute of Cancer Research, located at 661 University Avenue, Suite 510. To find us, enter the MaRS Centre at the corner of University and College, go to the 5th floor of the West Tower using the nearest elevator bank, and sign in at the OICR desk. Be advised that not all elevators go to the 5th floor, so please use the elevators opposite the security desk labeled 2-6.  
+Workshops will be held at the Ontario Institute of Cancer Research, located at 661 University Avenue, Suite 510. To find us, enter the MaRS Centre at the corner of University and College, go to the 5th floor of the West Tower using the nearest elevator bank, and sign in at the OICR desk. Be advised that not all elevators go to the 5th floor, so please use the elevators opposite the security desk labeled 2-6.  
 
 <iframe width="600" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMSoe2Lc0K4gRmSmTP3QCkhY&key=AIzaSyAY3MSfX-l_zVGMaSrEcq7w2wLJd4gVF5U" allowfullscreen></iframe>  
