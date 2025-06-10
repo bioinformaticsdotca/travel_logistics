@@ -7,9 +7,7 @@ header2: Edmonton Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg
 ---
 ## Where We Are
-The workshop will be held in room CW 410 of the University of Alberta Biological Sciences Building (BS), Centre Wing (CW).  
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.609421193321!2d-113.52811012241774!3d53.529032061037555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4163a2dbf81e6dc5%3A0x97181fa60251afb4!2sBiological%20Sciences%20Department!5e0!3m2!1sen!2sca!4v1685550933117!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The workshop will be held at the University of Alberta (room TBD). 
 
 ## Transportation To/From Edmonton  
 ### By Air: Edmonton International Airport (YEG)  
@@ -32,8 +30,4 @@ UAlberta also offers accommodations on campus:
 * [Hotel-style](https://www.ualberta.ca/conference-services/accommodation/guest-rooms.html)  
 
 ## Meals
-<!-- A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. -->
-TBA
-
-## Workshop Schedule
-The workshop will begin daily at 8am MST (10am EST) and conclude at approximately 5pm MST (7pm EST). Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/MET_2023).
+A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements.
