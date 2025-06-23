@@ -7,7 +7,9 @@ header2: Ottawa Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg
 ---
 ## Where We Are
-The workshop will be held at the University of Ottawa (room TBD.)
+The workshop will be held in room C309 at the CRX Building (100 Louis-Pasteur) at the University of Ottawa.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.3763737960894!2d-75.681405!3d45.4219138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0553301ba91f%3A0x88fbccabd3b90bc4!2sLearning%20Crossroads%20(CRX)!5e0!3m2!1sen!2sca!4v1750703431068!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Transportation To/From Ottawa  
 ### By Air: Macdonald-Cartier International Airport (YOW)
