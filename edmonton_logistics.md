@@ -7,7 +7,8 @@ header2: Edmonton Travel Logistics
 image: site_images/bioinformatics_LOGO.jpg
 ---
 ## Where We Are
-The workshop will be held at the University of Alberta (room TBD). 
+The workshop will be held at the University of Alberta's Central Academic Building, room 365.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.7461134015984!2d-113.5247648!3d53.526590999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a022206cac153d%3A0xdc1a5f61283ac17d!2sCentral%20Academic%20Building%20(CAB)!5e0!3m2!1sen!2sca!4v1751659939603!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
 
 ## Transportation To/From Edmonton  
 ### By Air: Edmonton International Airport (YEG)  
