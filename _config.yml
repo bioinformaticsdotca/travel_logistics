@@ -1,0 +1,8 @@
+# _config.yml
+
+title: CBW Travel Logistics
+
+# --- Items to exclude from the build --- #
+exclude:
+  - README.md
+  - "*-template.md"  # Excludes any file ending in -template.md
