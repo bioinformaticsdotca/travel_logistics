@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /vancouver_logistics
 title: Travel Logistics
 header1: Workshop Pages for Students
 header2: Vancouver Travel Logistics

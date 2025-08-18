@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /ottawa_logistics
 title: Ottawa Travel Logistics
 header1: Workshop Pages for Students
 header2: Ottawa Travel Logistics

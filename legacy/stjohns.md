@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /stjohns_logistics
 title: St. John's Travel Logistics
 header1: Workshop Pages for Students
 header2: St. John's Travel Logistics

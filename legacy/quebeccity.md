@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /quebeccity_logistics
 title: Québec City Travel Logistics
 header1: Workshop Pages for Students
 header2: Québec City Travel Logistics

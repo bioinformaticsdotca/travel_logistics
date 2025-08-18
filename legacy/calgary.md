@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /calgary_logistics
 title: Calgary Travel Logistics
 header1: Workshop Pages for Students
 header2: Calgary Travel Logistics

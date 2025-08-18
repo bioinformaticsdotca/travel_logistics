@@ -1,6 +1,5 @@
 ---
 layout: tutorial_page
-permalink: /toronto_logistics
 title: Toronto Travel Logistics
 header1: Workshop Pages for Students
 header2: Toronto Travel Logistics

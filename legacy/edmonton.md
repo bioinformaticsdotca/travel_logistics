@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /edmonton_logistics
 title: Edmonton Travel Logistics
 header1: Workshop Pages for Students
 header2: Edmonton Travel Logistics
