@@ -10,7 +10,7 @@ type: workshop # Leave this
 
 ## Where We Are
 
-This workshop will be held at the Vaccine and Infectious Disease Organization, University of Saskatchewan, 120 Veterinary Rd, Saskatoon, SK S7N 5E3.
+This workshop will be held at Room 59, Vaccine and Infectious Disease Organization, University of Saskatchewan, 120 Veterinary Rd, Saskatoon, SK S7N 5E3.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2448.842327670897!2d-106.62836372334202!3d52.13718957196329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5304f6b0660e21b3%3A0xa30959b24cec6e9a!2sVIDO!5e0!3m2!1sen!2sca!4v1758219783022!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
