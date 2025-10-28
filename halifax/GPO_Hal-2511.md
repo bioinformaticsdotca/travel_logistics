@@ -17,15 +17,26 @@ We’ve secured a group dinner reservation on the evening of the first day of th
 * Restaurant: The Wooden Monkey
 * Time: 7:30 PM (reservation confirmed)
 
-For those who did not apply for or were not approved for a meal stipend through the workshop funding application, a per diem of $26 will be provided (as per Dalhousie University Travel Protocols – Allowable Travel Expense) to cover dinner if you choose to dine at The Wooden Monkey.
-Per diem guidelines:
-* Receipts are not required when claiming per diem rates.
-* Alcoholic beverages are not reimbursable and should not be included on any claim.
-* Reasonable gratuities may be reimbursed if included on an itemized receipt (15–18% is considered reasonable).
-* Per diem claims should be submitted online via Dalhousie’s Chrome River platform.
-Quick Link: [Getting Started in Chrome River](https://dalu.sharepoint.com/sites/dohc/SitePages/Get-Started-in-Chrome-River.aspx?csf=1&web=1&e=HwFZI8&cid=7c95c3b7-7d70-432b-bf18-4f3eb4cbe372)
-
 **Please contact Carlina at [admin@bhcri.ca](mailto:admin@bhcri.ca) by Friday, October 31, 2025 if you plan to attend the Dinner so we can confirm numbers with the restaurant.**
+
+
+<details>
+    <summary>The following is applicable to CRTP Trainees only (clink to expand)</summary>
+    For those who did not apply for or were not approved for a meal stipend through the workshop funding application, a per diem of $26 will be provided (as per Dalhousie University Travel Protocols – Allowable Travel Expense) to cover dinner if you choose to dine at The Wooden Monkey.
+    Per diem guidelines:
+    <ul>
+        <li>Receipts are not required when claiming per diem rates.</li>
+        <li>Alcoholic beverages are not reimbursable and should not be included on any claim.</li>
+        <li>Reasonable gratuities may be reimbursed if included on an itemized receipt (15–18% is considered reasonable).</li>
+        <li>Per diem claims should be submitted online via Dalhousie’s Chrome River platform.
+            <ul>
+                Quick Link: <a href="https://dalu.sharepoint.com/sites/dohc/SitePages/Get-Started-in-Chrome-River.aspx?csf=1&web=1&e=HwFZI8&cid=7c95c3b7-7d70-432b-bf18-4f3eb4cbe372">Getting Started in Chrome River</a>
+            </ul>
+        </li>
+    </ul>
+</details>
+
+
 
 ### Lunch on November 5th
 
