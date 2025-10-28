@@ -6,13 +6,15 @@ regions: ["Halifax"] # Separate with commas
 type: workshop # Leave this
 ---
 
-# [Workshop title and City Logistics (e.g. Intro to R Montréal Logistics)]
+# Genomics for Precision Oncology, Halifax NS Logistics
 
 ## Where We Are
 
 This workshop will be held in **Room 307** of the **Dalhousie Student Union** building. The civic address is 6136 University Avenue, Halifax, NS B3H 4R2.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2839.0565293806735!2d-63.59153602342851!3d44.6367615882646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b5a2224d4285d0d%3A0x36b864ba4ed0ac4f!2sDalhousie%20Student%20Union!5e0!3m2!1sen!2sca!4v1761656218959!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Transportation To/From Dalhousie University
 
 ### By Car
 This will of course depend on where you are driving from. Parking information is available [from Dalhousie University](https://www.dal.ca/campus-maps/parking.html) and [from the Municipality of Halifax](https://www.halifax.ca/transportation/parking/street-parking)
