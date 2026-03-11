@@ -13,6 +13,8 @@ type: workshop # Leave this
 
 The workshop will be held on the North Campus of the University of Alberta. The exact room will be confirmed shortly.
 
+For those unable to attend in-person, a Zoom link will be sent out the night before the workshop begins. 
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.4896619654673!2d-113.52857222310884!3d53.528917472342826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a023e7c0b95acf%3A0x6388ba3a62027e82!2sBiological%20Sciences%20Centre!5e1!3m2!1sen!2sca!4v1760553369171!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Transportation To/From Edmonton
