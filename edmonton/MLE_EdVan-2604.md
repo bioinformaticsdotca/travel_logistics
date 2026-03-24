@@ -57,4 +57,4 @@ Light snacks will be provided in the morning and afternoon. You are responsible 
 
 ## Workshop Schedule
 
-The workshop will begin daily at 9:00 AM and conclude at approximately 5:30 PM. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/INR_Ed-2510/).
+The workshop will begin daily at 9:00 AM and conclude at approximately 5:30 PM. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/MLE_EdVan-2604/).
