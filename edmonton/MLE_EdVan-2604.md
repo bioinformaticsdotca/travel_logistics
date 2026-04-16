@@ -11,7 +11,7 @@ type: workshop # Leave this
 
 ## Where We Are
 
-The workshop will be held on the North Campus of the University of Alberta. The exact room will be confirmed shortly.
+The workshop will be held on the North Campus of the University of Alberta, in room G-217 of the Biological Sciences building.
 
 For those unable to attend in-person, a Zoom link will be sent out the night before the workshop begins. 
 
