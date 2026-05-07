@@ -10,7 +10,9 @@ regions: [Ontario]
 
 Workshops will be held at the Ontario Institute of Cancer Research, located at 661 University Avenue, Suite 510. To find us, enter the MaRS Centre at the corner of University and College, go to the 5th floor of the West Tower using the nearest elevator bank, and sign in at the OICR desk. Be advised that not all elevators go to the 5th floor, so please use the elevators opposite the security desk labeled 2-6.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.4592127399956!2d-79.3897787!3d43.6594185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34b7dfe8e817%3A0xfbc816e3134280bf!2sOntario%20Institute%20for%20Cancer%20Research!5e0!3m2!1sen!2sca!4v1778164794738!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.4592127399956!2d-79.3897787!3d43.6594185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34b7dfe8e817%3A0xfbc816e3134280bf!2sOntario%20Institute%20for%20Cancer%20Research!5e0!3m2!1sen!2sca!4v1778164794738!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 
 ## Transportation To/From Toronto
 
