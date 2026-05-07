@@ -1,9 +1,8 @@
 ---
 layout: default
-# For everything in this file, replace sections in angle brackets with the appropriate information
 title: Single-Cell RNA-seq Analysis Toronto Logistics
 date:  2026-06-01
-regions: [Ontario]
+regions: Ontario
 ---
 
 ## Where We Are
