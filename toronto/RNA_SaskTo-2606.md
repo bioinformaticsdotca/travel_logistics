@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Single-Cell RNA-seq Analysis Toronto Logistics
-date:  2026-06-01
+title: RNA-seq Analysis Toronto Logistics
+date:  2026-06-22
 regions: Ontario
 ---
 
@@ -71,4 +71,4 @@ A light breakfast and snacks will be provided. You are responsible for your own 
 
 ## Workshop Schedule
 
-The workshop will begin daily at 9:30am ET and conclude at approximately 6:30pm ET. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/scRNA_WinTo-2606/index.html).
+The workshop will begin daily at 9:30am ET and conclude at approximately 7pm ET. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/RNA_SaskTo-2606/index.html).
