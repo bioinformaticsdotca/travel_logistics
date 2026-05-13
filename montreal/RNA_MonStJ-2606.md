@@ -38,7 +38,7 @@ This will of course depend on where you are driving from. Parking is limited aro
 
 You are responsible for arranging your own accommodation. Numerous accommodation facilities are possible. Some suggested accommodations nearby include:
 
-* [M11 | Le Mile-End Hotel](https://lemileendhotel.m11collection.com/fr/lemileendhotel)
+* [M11 Le Mile-End Hotel](https://lemileendhotel.m11collection.com/fr/lemileendhotel)
 * [Hôtel Laurence](https://hotellaurence.ca)
 * [Pensione Popolo](https://www.popolopensione.com)
 * [Hôtel Terrasse Royale](https://terrasse-royale.com)
