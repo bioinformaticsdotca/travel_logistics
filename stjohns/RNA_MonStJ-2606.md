@@ -51,8 +51,8 @@ Expedia.ca and Booking.com are useful websites for finding other accomodation op
 
 ## Meals
 A light breakfast and snacks will be provided. You are responsible for your own lunch and dinner arrangements. 
-
-Memorial University has indexed several on- and off-campus dining options on (this website)[https://www.mun.ca/ancillary/food--retail-services/]
+[
+Memorial University has indexed several on- and off-campus dining options on this [website](https://www.mun.ca/ancillary/food--retail-services/)
 
 ## Workshop Schedule
 
