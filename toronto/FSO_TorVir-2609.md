@@ -5,6 +5,9 @@ date:  2026-09-28
 regions: Ontario
 ---
 
+# Foundational Spatial 'Omics Analysis Workshop
+
+
 ## Where We Are
 
 Workshops will be held at the Ontario Institute of Cancer Research, located at 661 University Avenue, Suite 510. To find us, enter the MaRS Centre at the corner of University and College, go to the 5th floor of the West Tower using the nearest elevator bank, and sign in at the OICR desk. Be advised that not all elevators go to the 5th floor, so please use the elevators opposite the security desk labeled 2-6.
