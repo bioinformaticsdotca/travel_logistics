@@ -5,7 +5,7 @@ date:  2026-10-19
 regions: Ontario
 ---
 
-# Foundational Spatial 'Omics Analysis Workshop
+# Cancer Analysis Workshop
 
 
 ## Where We Are
