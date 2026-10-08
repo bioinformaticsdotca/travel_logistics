@@ -6,7 +6,7 @@ regions: ["QC"] # Separate with commas
 type: workshop # Leave this
 ---
 
-# RNA-seq Analysis Montréal Travel Logistics
+# Cancer Analysis Montréal Travel Logistics
 
 ## Where We Are
 
