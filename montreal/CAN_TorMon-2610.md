@@ -52,3 +52,5 @@ A light breakfast and snacks will be provided. You are responsible for your own 
 ## Workshop Schedule
 
 The workshop will begin daily at 8:30am EST and conclude at approximately 6:00pm EST. Workshop schedules will be made available on the [student tutorial site](https://bioinformaticsdotca.github.io/CAN_TorMon-2610/).
+
+Hello, world!
