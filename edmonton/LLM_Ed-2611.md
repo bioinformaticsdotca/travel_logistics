@@ -28,6 +28,13 @@ Photo-by-photo directions from the Donadeo Innovation Centre for Engineering eas
 - [View the Donadeo east entrance route guide](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/donadeo-east-to-ice-8207/)
 - [Download the Donadeo east entrance route guide (Word)](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/Donadeo_East_Entrance_to_ICE_8207.docx)
 
+### From the Donadeo west entrance to the workshop room
+
+Photo-by-photo directions from the Donadeo Innovation Centre for Engineering west entrance, via the elevators, to Room 8-207:
+
+- [View the Donadeo west entrance route guide](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/donadeo-west-to-ice-8207/)
+- [Download the Donadeo west entrance route guide (Word)](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/Donadeo_West_Entrance_to_ICE_8207.docx)
+
 ### From ETLC to the workshop room
 
 Photo-by-photo directions from the ETLC east entrance to Room 8-207:
