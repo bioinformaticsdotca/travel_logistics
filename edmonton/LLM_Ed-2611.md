@@ -14,6 +14,11 @@ The workshop will be held on the North Campus of the University of Alberta, in r
 
 This is a weekend workshop. Building access details (which entrance to use and who will let participants in) will be confirmed closer to the date.
 
+Photo-by-photo directions from the ETLC east entrance to Room 8-207:
+
+- [View the route guide](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/etlc-to-ice-8207/)
+- [Download the route guide (Word)](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/ETLC_to_ICE_8207.docx)
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.2!2d-113.5296782!3d53.5282209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0218a119b1d79%3A0x99c87bfb9bf82301!2sDonadeo%20Innovation%20Centre%20for%20Engineering!5e0!3m2!1sen!2sca!4v1761610000000!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Transportation To/From Edmonton
