@@ -14,6 +14,15 @@ The workshop will be held on the North Campus of the University of Alberta, in r
 
 This is a weekend workshop. Building access details (which entrance to use and who will let participants in) will be confirmed closer to the date.
 
+### Campus walking maps
+
+Walking maps from Campus Tower, University Station (LRT), and University Transit Centre (bus) to ETLC, plus the route from ETLC to the Students' Union Building (SUB):
+
+- [View the campus walking maps](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.html)
+- [Download the campus walking maps (Word)](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.docx)
+
+### From ETLC to the workshop room
+
 Photo-by-photo directions from the ETLC east entrance to Room 8-207:
 
 - [View the route guide](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/etlc-to-ice-8207/)
