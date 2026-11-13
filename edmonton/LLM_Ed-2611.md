@@ -16,7 +16,7 @@ This is a weekend workshop. Building access details (which entrance to use and w
 
 ### Campus walking maps
 
-Walking maps from Campus Tower, University Station (LRT), and University Transit Centre (bus) to ETLC, plus the route from ETLC to the Students' Union Building (SUB):
+The combined guide shows the Donadeo east entrance walking maps first, followed by the ETLC maps. It includes routes from Campus Tower, University Station (LRT), and University Transit Centre (bus), routes to the Students' Union Building (SUB), and a local ETLC-to-Donadeo arrival map. The Donadeo marker shows the east entrance approach on Discovery Walk; use the photo instructions below to recognize the entrance doors.
 
 - [View the campus walking maps](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.html)
 - [Download the campus walking maps (Word)](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.docx)
