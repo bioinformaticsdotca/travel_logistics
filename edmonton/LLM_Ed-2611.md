@@ -21,6 +21,13 @@ Walking maps from Campus Tower, University Station (LRT), and University Transit
 - [View the campus walking maps](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.html)
 - [Download the campus walking maps (Word)](https://bioinformaticsdotca.github.io/travel_logistics/edmonton/LLM_Ed-2611-guides/Campus_Walking_Maps.docx)
 
+### From the Donadeo east entrance to the workshop room
+
+Photo-by-photo directions from the Donadeo Innovation Centre for Engineering east entrance, via the elevators, to Room 8-207:
+
+- [View the Donadeo east entrance route guide](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/donadeo-east-to-ice-8207/)
+- [Download the Donadeo east entrance route guide (Word)](https://bioinformaticsdotca.github.io/LLM_Ed-2611/guides/Donadeo_East_Entrance_to_ICE_8207.docx)
+
 ### From ETLC to the workshop room
 
 Photo-by-photo directions from the ETLC east entrance to Room 8-207:
